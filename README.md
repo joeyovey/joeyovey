@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Joseph Ovey Akawu 😎
-
+<img src="banner.png">
 <!--
 **joeyovey/joeyovey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
