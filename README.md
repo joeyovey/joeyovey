@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Developer
 -------------------
 
-* 🌍  I'm based in FCT Abuja, Nigeria
+* 🌍  I'm based in Jos, Plateau State, Nigeria
 * ✉️  You can contact me at [josephovey6@gmail.com](mailto:josephovey6@gmail.com)
-* 🧠  I'm learning ReactJs
+* 🧠  I'm learning JavaScript/ReactJs
 * ⚡  Tech fervent
 
 ### Skills
